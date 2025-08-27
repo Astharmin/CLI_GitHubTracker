@@ -19,11 +19,7 @@
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tuusuario/CLI_GitHubTracker
-.git
-
-# Navega al directorio
-cd CLI_GitHubTracker
+git clone https://github.com/tuusuario/CLI_GitHubTracker.git
 
 # Ejecuta el script
 python main.py <username>
