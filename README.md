@@ -26,6 +26,6 @@ git clone https://github.com/tuusuario/CLI_GitHubTracker
 cd CLI_GitHubTracker
 
 # Ejecuta el script
-python github_activity.py <username>
+python main.py <username>
 ```
 https://roadmap.sh/projects/github-user-activity
